@@ -1,0 +1,6 @@
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\bin\Debug\01.ReverseStrings.exe.config
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\bin\Debug\01.ReverseStrings.exe
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\bin\Debug\01.ReverseStrings.pdb
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\obj\Debug\01.ReverseStrings.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\obj\Debug\01.ReverseStrings.exe
+E:\CSharp Advanced\01.StacksAndQueues\01.ReverseStrings\obj\Debug\01.ReverseStrings.pdb

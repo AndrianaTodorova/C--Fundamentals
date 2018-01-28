@@ -1,0 +1,7 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.pdb

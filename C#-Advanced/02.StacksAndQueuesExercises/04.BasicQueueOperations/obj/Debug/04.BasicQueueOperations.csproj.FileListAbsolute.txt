@@ -1,0 +1,5 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

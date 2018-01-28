@@ -1,0 +1,7 @@
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\bin\Debug\03.SquareWithMaximumSum.exe.config
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\bin\Debug\03.SquareWithMaximumSum.exe
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\bin\Debug\03.SquareWithMaximumSum.pdb
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\obj\Debug\03.SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\obj\Debug\03.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\obj\Debug\03.SquareWithMaximumSum.exe
+E:\CSharp Advanced\04.Matrix\03.SquareWithMaximumSum\obj\Debug\03.SquareWithMaximumSum.pdb

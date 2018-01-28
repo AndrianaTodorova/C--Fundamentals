@@ -1,0 +1,6 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csproj.CoreCompileInputs.cache

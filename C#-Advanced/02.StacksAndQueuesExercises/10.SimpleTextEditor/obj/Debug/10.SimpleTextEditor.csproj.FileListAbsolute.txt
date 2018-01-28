@@ -1,0 +1,7 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.pdb

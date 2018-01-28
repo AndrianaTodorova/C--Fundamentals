@@ -1,0 +1,7 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\obj\Debug\03.MaximumElement.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\obj\Debug\03.MaximumElement.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\03.MaximumElement\obj\Debug\03.MaximumElement.csproj.CoreCompileInputs.cache

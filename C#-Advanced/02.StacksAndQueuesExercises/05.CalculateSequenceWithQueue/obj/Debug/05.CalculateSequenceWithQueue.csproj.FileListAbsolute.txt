@@ -1,0 +1,7 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache

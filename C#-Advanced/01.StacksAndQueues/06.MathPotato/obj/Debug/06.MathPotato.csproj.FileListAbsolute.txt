@@ -1,0 +1,5 @@
+E:\CSharp Advanced\01.StacksAndQueues\06.MathPotato\bin\Debug\06.MathPotato.exe.config
+E:\CSharp Advanced\01.StacksAndQueues\06.MathPotato\bin\Debug\06.MathPotato.exe
+E:\CSharp Advanced\01.StacksAndQueues\06.MathPotato\bin\Debug\06.MathPotato.pdb
+E:\CSharp Advanced\01.StacksAndQueues\06.MathPotato\obj\Debug\06.MathPotato.exe
+E:\CSharp Advanced\01.StacksAndQueues\06.MathPotato\obj\Debug\06.MathPotato.pdb

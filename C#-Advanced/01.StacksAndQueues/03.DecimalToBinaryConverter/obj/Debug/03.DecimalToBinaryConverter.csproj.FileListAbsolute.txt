@@ -1,0 +1,6 @@
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+E:\CSharp Advanced\01.StacksAndQueues\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

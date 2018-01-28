@@ -1,0 +1,11 @@
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\bin\Debug\netcoreapp2.0\07.TrafficJam.deps.json
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\bin\Debug\netcoreapp2.0\07.TrafficJam.runtimeconfig.json
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\bin\Debug\netcoreapp2.0\07.TrafficJam.runtimeconfig.dev.json
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\bin\Debug\netcoreapp2.0\07.TrafficJam.dll
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\bin\Debug\netcoreapp2.0\07.TrafficJam.pdb
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.AssemblyInfoInputs.cache
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.AssemblyInfo.cs
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.dll
+E:\CSharp Advanced\01.StacksAndQueues\07.TrafficJam\obj\Debug\netcoreapp2.0\07.TrafficJam.pdb

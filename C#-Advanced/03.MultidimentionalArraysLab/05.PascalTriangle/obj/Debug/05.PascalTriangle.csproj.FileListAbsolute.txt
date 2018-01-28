@@ -1,0 +1,7 @@
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\bin\Debug\05.PascalTriangle.exe.config
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\bin\Debug\05.PascalTriangle.exe
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\bin\Debug\05.PascalTriangle.pdb
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\obj\Debug\05.PascalTriangle.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\obj\Debug\05.PascalTriangle.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\obj\Debug\05.PascalTriangle.exe
+E:\CSharp Advanced\04.Matrix\05.PascalTriangle\obj\Debug\05.PascalTriangle.pdb

@@ -1,0 +1,7 @@
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\bin\Debug\04.GroupNumbers.exe.config
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\bin\Debug\04.GroupNumbers.exe
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\bin\Debug\04.GroupNumbers.pdb
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\obj\Debug\04.GroupNumbers.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\obj\Debug\04.GroupNumbers.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\obj\Debug\04.GroupNumbers.exe
+E:\CSharp Advanced\04.Matrix\04.GroupNumbers\obj\Debug\04.GroupNumbers.pdb

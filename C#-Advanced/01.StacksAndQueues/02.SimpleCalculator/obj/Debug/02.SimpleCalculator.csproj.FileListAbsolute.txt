@@ -1,0 +1,6 @@
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
+E:\CSharp Advanced\01.StacksAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb

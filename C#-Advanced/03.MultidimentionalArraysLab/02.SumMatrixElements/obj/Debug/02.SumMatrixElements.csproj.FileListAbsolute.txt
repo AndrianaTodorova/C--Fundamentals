@@ -1,0 +1,7 @@
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\bin\Debug\02.SumMatrixElements.exe.config
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\bin\Debug\02.SumMatrixElements.exe
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\bin\Debug\02.SumMatrixElements.pdb
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\obj\Debug\02.SumMatrixElements.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\obj\Debug\02.SumMatrixElements.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\obj\Debug\02.SumMatrixElements.exe
+E:\CSharp Advanced\04.Matrix\02.SumMatrixElements\obj\Debug\02.SumMatrixElements.pdb

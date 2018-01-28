@@ -1,0 +1,6 @@
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe.config
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.pdb
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.exe
+E:\CSharp Advanced\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.pdb

@@ -1,0 +1,7 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

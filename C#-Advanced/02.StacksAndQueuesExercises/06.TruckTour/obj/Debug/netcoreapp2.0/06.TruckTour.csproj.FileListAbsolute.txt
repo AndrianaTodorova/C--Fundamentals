@@ -1,0 +1,11 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.deps.json
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.runtimeconfig.json
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.runtimeconfig.dev.json
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.dll
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.AssemblyInfoInputs.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.AssemblyInfo.cs
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.dll
+E:\CSharp Advanced\02.StacksAndQueuesExercises\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.pdb

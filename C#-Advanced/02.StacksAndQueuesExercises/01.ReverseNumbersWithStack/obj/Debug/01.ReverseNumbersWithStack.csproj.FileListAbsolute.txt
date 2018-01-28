@@ -1,0 +1,6 @@
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.exe.config
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.pdb
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.exe
+E:\CSharp Advanced\02.StacksAndQueuesExercises\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.pdb
