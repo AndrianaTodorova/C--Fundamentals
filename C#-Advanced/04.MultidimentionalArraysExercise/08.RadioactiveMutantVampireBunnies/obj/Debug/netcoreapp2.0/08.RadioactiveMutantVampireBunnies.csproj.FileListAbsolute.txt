@@ -1,0 +1,11 @@
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.deps.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.runtimeconfig.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.dll
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.pdb
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.dll
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\08.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveMutantVampireBunnies.pdb

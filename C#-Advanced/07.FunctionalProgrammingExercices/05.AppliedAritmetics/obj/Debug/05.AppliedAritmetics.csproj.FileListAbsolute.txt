@@ -1,0 +1,7 @@
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\bin\Debug\05.AppliedAritmetics.exe.config
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\bin\Debug\05.AppliedAritmetics.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\bin\Debug\05.AppliedAritmetics.pdb
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\obj\Debug\05.AppliedAritmetics.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\obj\Debug\05.AppliedAritmetics.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\obj\Debug\05.AppliedAritmetics.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\05.AppliedAritmetics\obj\Debug\05.AppliedAritmetics.pdb

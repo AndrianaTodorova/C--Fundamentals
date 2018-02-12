@@ -1,0 +1,6 @@
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb

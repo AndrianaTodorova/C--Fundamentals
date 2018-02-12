@@ -1,0 +1,7 @@
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\bin\Debug\04.FindEvenOrOdds.exe.config
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\bin\Debug\04.FindEvenOrOdds.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\bin\Debug\04.FindEvenOrOdds.pdb
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\obj\Debug\04.FindEvenOrOdds.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\obj\Debug\04.FindEvenOrOdds.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\obj\Debug\04.FindEvenOrOdds.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\04.FindEvenOrOdds\obj\Debug\04.FindEvenOrOdds.pdb

@@ -1,0 +1,7 @@
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe.config
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\bin\Debug\07.PredicateForNames.pdb
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\obj\Debug\07.PredicateForNames.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\obj\Debug\07.PredicateForNames.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\obj\Debug\07.PredicateForNames.exe
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\07.PredicateForNames\obj\Debug\07.PredicateForNames.pdb

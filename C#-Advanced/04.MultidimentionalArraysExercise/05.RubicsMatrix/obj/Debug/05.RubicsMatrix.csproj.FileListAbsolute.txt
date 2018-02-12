@@ -1,0 +1,7 @@
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\bin\Debug\05.RubicsMatrix.exe.config
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\bin\Debug\05.RubicsMatrix.exe
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\bin\Debug\05.RubicsMatrix.pdb
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\obj\Debug\05.RubicsMatrix.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\obj\Debug\05.RubicsMatrix.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\obj\Debug\05.RubicsMatrix.exe
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\05.RubicsMatrix\obj\Debug\05.RubicsMatrix.pdb

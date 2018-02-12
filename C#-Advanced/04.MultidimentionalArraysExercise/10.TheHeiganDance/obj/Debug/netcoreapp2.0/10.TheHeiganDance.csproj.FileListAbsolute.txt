@@ -1,0 +1,11 @@
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\bin\Debug\netcoreapp2.0\10.TheHeiganDance.deps.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\bin\Debug\netcoreapp2.0\10.TheHeiganDance.runtimeconfig.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\bin\Debug\netcoreapp2.0\10.TheHeiganDance.runtimeconfig.dev.json
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\bin\Debug\netcoreapp2.0\10.TheHeiganDance.dll
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\bin\Debug\netcoreapp2.0\10.TheHeiganDance.pdb
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.AssemblyInfoInputs.cache
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.AssemblyInfo.cs
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.dll
+E:\CSharp Advanced\04.MultidimentionalArraysExercise\10.TheHeiganDance\obj\Debug\netcoreapp2.0\10.TheHeiganDance.pdb

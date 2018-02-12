@@ -1,0 +1,11 @@
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.deps.json
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.json
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.dev.json
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csprojResolveAssemblyReference.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfo.cs
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+E:\CSharp Advanced\07.FunctionalProgrammingExercices\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb
